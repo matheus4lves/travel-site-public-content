@@ -6,6 +6,9 @@
 
 - [Introduction](#introduction)
 - [Description](#description)
+- [Demo](#demo)
+- [Dependencies](#dependencies)
+- [DevDependencies](#devdependencies)
 - [Screenshots](#screenshots)
 - [Features](#features)
 - [Credits](#credits)
@@ -16,11 +19,23 @@ Fictitious travel site.
 
 ## Description
 
-This page is part of the online course [Git a Web Developer Job: Mastering the Modern Workflow](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/).
+Fictitious travel site developed in the online course [Git a Web Developer Job: Mastering the Modern Workflow](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/).
 
 [//]: # "this is a workaround to make a comments"
 [//]: # "## Features"
 [//]: # "## Demo"
+
+## Demo
+
+[Clear View Escapes](https://angry-sinoussi-7d9399.netlify.app/)
+
+## Dependencies
+
+![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/matheus4lves/travel-site-public-content/axios?style=flat-square) ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/matheus4lves/travel-site-public-content/lazysizes?style=flat-square) ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/matheus4lves/travel-site-public-content/lodash?style=flat-square) ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/matheus4lves/travel-site-public-content/normalize.css?style=flat-square) ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/matheus4lves/travel-site-public-content/react?style=flat-square) ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/matheus4lves/travel-site-public-content/react-dom?style=flat-square)
+
+## DevDependencies
+
+![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/matheus4lves/travel-site-public-content/dev/@babel/core?style=flat-square) ![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/matheus4lves/travel-site-public-content/dev/@babel/preset-env?style=flat-square) ![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/matheus4lves/travel-site-public-content/dev/@babel/preset-react?style=flat-square) ![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/matheus4lves/travel-site-public-content/dev/autoprefixer?style=flat-square) ![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/matheus4lves/travel-site-public-content/dev/babel-loader?style=flat-square) ![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/matheus4lves/travel-site-public-content/dev/clean-webpack-plugin?style=flat-square) ![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/matheus4lves/travel-site-public-content/dev/css-loader?style=flat-square) ![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/matheus4lves/travel-site-public-content/dev/css-minimizer-webpack-plugin?style=flat-square) ![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/matheus4lves/travel-site-public-content/dev/fs-extra?style=flat-square) ![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/matheus4lves/travel-site-public-content/dev/html-webpack-plugin?style=flat-square) ![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/matheus4lves/travel-site-public-content/dev/mini-css-extract-plugin?style=flat-square)![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/matheus4lves/travel-site-public-content/dev/postcss-hexrgba?style=flat-square) ![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/matheus4lves/travel-site-public-content/dev/postcss-import?style=flat-square) ![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/matheus4lves/travel-site-public-content/dev/postcss-loader?style=flat-square) ![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/matheus4lves/travel-site-public-content/dev/postcss-mixins?style=flat-square) ![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/matheus4lves/travel-site-public-content/dev/postcss-nested?style=flat-square) ![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/matheus4lves/travel-site-public-content/dev/postcss-simple-vars?style=flat-square) ![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/matheus4lves/travel-site-public-content/dev/style-loader?style=flat-square) ![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/matheus4lves/travel-site-public-content/dev/web-cli?style=flat-square) ![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/matheus4lves/travel-site-public-content/dev/webpack?style=flat-square) ![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/matheus4lves/travel-site-public-content/dev/webpack-cli?style=flat-square) ![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/matheus4lves/travel-site-public-content/dev/webpack-dev-server?style=flat-square)
 
 ## Features
 
